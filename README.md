@@ -31,7 +31,7 @@ The columns in the dataset are as follows:
 ## Simulation output
 
 For a more detailed description of the simulations, see Material and methods in
-the manuscript. The columns in this dataset (`simulation_output.csv.gz`) are as
+the manuscript. The columns in this dataset (`simulation_output.parquet`) are as
 follows:
 - `part_id`: Individual participant identifier.
 - `model_iteration`: Identifier for the stochastic realization of the model (out
